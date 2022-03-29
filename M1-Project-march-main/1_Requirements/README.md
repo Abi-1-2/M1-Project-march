@@ -13,9 +13,28 @@
          It gives subject wise mark and grades to identify
          It also generate percentage also pass or fail in table formation
          
-     
+ ## Weakness
         
-        
+         It gives lot of server error while generating all student marksheet.
+         
+ ## Oppurtunity
+ 
+          User can generate all subject marks,grades and percentage in a single sheet with neat tabulation.
+         
+ ## Existing System:
+
+   Looking at the existing mark sheet management system, it is found that many educational institutions, mainly engineering colleges, have incorporated “Grading System” in their educational stream. But, the problem here is that they are still using manual methods for calculating grades and entering in them in the marksheet. This is a very time consuming and uneconomical process.
+   
+## Proposed System:
+
+    In this proposed Marksheet Management System in VB.NET, automatic grade generation can be done. Basic information of the student such as courses taken, subjects, semester, etc. need to be provided, and then the grades are calculated automatically and the final result is shown.
+    
+ ## Features:
+ 
+   Two main features of this project are: entering marks in mark sheet and printing marks. Both these functions are done automatically by this software application. Some other features of the project are save, cancel and exit from the application.
+
+   The marksheet entry form includes “student details” and “grade points obtained” by the student. Students’ name, registration number, exam roll no., semester, courses and exam type are to be provided in student details. All these information are saved in the system.
+
 ## REQUIREMENTS:
 
 ## High level requirements:
@@ -35,8 +54,9 @@
  Front End: Microsoft Visual studio 2005.
  Back End: AS. NET.
  Database: Microsoft SQL Server.
- 
-## 4 W's and 1 H
+
+
+ ## 4 W's and 1 H
 
 ## Where is it used ?
  It is used for all colleges and school for calculating marks.
