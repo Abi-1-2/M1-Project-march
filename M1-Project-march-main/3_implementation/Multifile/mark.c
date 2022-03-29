@@ -25,12 +25,12 @@ void input(){
 		}
 		printf("\n SCIENCE1  ");
 	    scanf("%d",&s1);
-	    if(m1>=20){
+	    if(s1>=20){
 		        printf("\nplz enter less than 20 ");
 		}
 		printf("\nELECTRIC CIRCUIT THEORY  ");
 	    scanf("%d",&e);
-	    if(n>=80){
+	    if(e>=80){
 		        printf("\nplz enter less than 80 ");
 		}
 		printf("\nELECTRIC CIRCUIT THEORY PRACTICALS:  ");
@@ -128,8 +128,8 @@ void show(){
 int calculations(){
 	
 	char res[5];
-	K1=m+m1;
-	K2=n+n1;
+	K1=s+s1;
+	K2=e+e1;
 	K3=o+o1;
 	K4=p+p1;
 	K5=q1+q2;
