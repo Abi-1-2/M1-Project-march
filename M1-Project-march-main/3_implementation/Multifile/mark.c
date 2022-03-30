@@ -20,7 +20,7 @@ void input(){
 	scanf("%d",&r);
 	printf("\nSCIENCE ");
 	scanf("%d",&s);
-	    if(m>=80){
+	    if(s>=80){
 		        printf("\nplz enter less than 80 ");
 		}
 		printf("\n SCIENCE1  ");
@@ -35,7 +35,7 @@ void input(){
 		}
 		printf("\nELECTRIC CIRCUIT THEORY PRACTICALS:  ");
 	    scanf("%d",&e1);
-	    if(n1>=20){
+	    if(e1>=20){
 		        printf("\nplz enter less than 20 ");
         }
 		printf("\nEnter EMBEDDED SYSTEM DESIGN ");
