@@ -1,11 +1,11 @@
 ## MARKSHEET CREATING SYSTEM
 
-## INTRODUCTION:
+## INTRODUCTION
    Today there are lot of college  and school is presently and it is increasingly each day 
    so it is difficult to become check the exam copies of each student correctly at the particular time
   To solve this problem ,going to build a marksheet generation system
         
-## SWAT ANALYSIS:
+## SWAT ANALYSIS
 
 ## strength
  It is very usefull for staff to generate marks and grade.
@@ -20,35 +20,35 @@ It also generate percentage also pass or fail in table formation
  
  User can generate all subject marks,grades and percentage in a single sheet with neat tabulation.
          
- ## Existing System:
+ ## Existing System
 
    Looking at the existing mark sheet management system, it is found that many educational institutions, mainly engineering colleges, have incorporated “Grading System” in their educational stream. But, the problem here is that they are still using manual methods for calculating grades and entering in them in the marksheet. This is a very time consuming and uneconomical process.
    
-## Proposed System:
+## Proposed System
 
  In this proposed Marksheet Management System in VB.NET, automatic grade generation can be done. Basic information of the student such as courses taken, subjects, semester, etc. need to be provided, and then the grades are calculated automatically and the final result is shown.
     
- ## Features:
+ ## Features
  
    Two main features of this project are: entering marks in mark sheet and printing marks. Both these functions are done automatically by this software application. Some other features of the project are save, cancel and exit from the application.
 
    The marksheet entry form includes “student details” and “grade points obtained” by the student. Students’ name, registration number, exam roll no., semester, courses and exam type are to be provided in student details. All these information are saved in the system.
 
-## REQUIREMENTS:
+## REQUIREMENTS
 
-## High level requirements:
+## High level requirements
  Accept your semester marks & practical marks and calculate total,percentages
  verify subject mark between 0-100 & practical also.
   If subject not cleared add '#'.
         
-## LOW LEVEL REQUIREMENTS:
+## LOW LEVEL REQUIREMENTS
 
-## Hardware requirement:
+## Hardware requirement
   RAM: 1 GB or above.
   Hard disk: Minimum 20 GB free space.
   Processor: Pentium 4 (1.6 GHz) or higher.
   
-## Software requirement:
+## Software requirement
  Operating system: Windows XP/ 2000/ Visual studio code/ 7/ 8/ 10.
  Front End: Microsoft Visual studio 2005.
  Back End: AS. NET.
