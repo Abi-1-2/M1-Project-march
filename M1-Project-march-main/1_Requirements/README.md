@@ -1,25 +1,24 @@
 ## MARKSHEET CREATING SYSTEM
 
 ## INTRODUCTION:
-        # Today there are lot of college  and school is presently and it is increasingly each day 
-        # so it is difficult to become check the exam copies of each student correctly at the particular time
-        # To solve this problem ,going to build a marksheet generation system
+   Today there are lot of college  and school is presently and it is increasingly each day 
+   so it is difficult to become check the exam copies of each student correctly at the particular time
+  To solve this problem ,going to build a marksheet generation system
         
 ## SWAT ANALYSIS:
 
 ## strength
-         It is very usefull for staff to generate marks and grade.
-         It is usefull for all colleges and schools
-         It gives subject wise mark and grades to identify
-         It also generate percentage also pass or fail in table formation
+ It is very usefull for staff to generate marks and grade.
+ It is usefull for all colleges and schools
+It gives subject wise mark and grades to identify
+It also generate percentage also pass or fail in table formation
          
  ## Weakness
-        
-         It gives lot of server error while generating all student marksheet.
+  It gives lot of server error while generating all student marksheet.
          
  ## Oppurtunity
  
-          User can generate all subject marks,grades and percentage in a single sheet with neat tabulation.
+ User can generate all subject marks,grades and percentage in a single sheet with neat tabulation.
          
  ## Existing System:
 
@@ -27,7 +26,7 @@
    
 ## Proposed System:
 
-    In this proposed Marksheet Management System in VB.NET, automatic grade generation can be done. Basic information of the student such as courses taken, subjects, semester, etc. need to be provided, and then the grades are calculated automatically and the final result is shown.
+ In this proposed Marksheet Management System in VB.NET, automatic grade generation can be done. Basic information of the student such as courses taken, subjects, semester, etc. need to be provided, and then the grades are calculated automatically and the final result is shown.
     
  ## Features:
  
@@ -38,9 +37,9 @@
 ## REQUIREMENTS:
 
 ## High level requirements:
-       Accept your semester marks & practical marks and calculate total,percentages
-        verify subject mark between 0-100 & practical also.
-        If subject not cleared add '#'.
+ Accept your semester marks & practical marks and calculate total,percentages
+ verify subject mark between 0-100 & practical also.
+  If subject not cleared add '#'.
         
 ## LOW LEVEL REQUIREMENTS:
 
