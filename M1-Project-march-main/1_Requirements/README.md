@@ -53,14 +53,13 @@ It also generate percentage also pass or fail in table formation
  Front End: Microsoft Visual studio 2005.
  Back End: AS. NET.
  Database: Microsoft SQL Server.
+ 
+## 4 W'S and 1H
 
-
- ## 4 W's and 1 H
-
-## Where is it used ?
+## Where 
  It is used for all colleges and school for calculating marks.
  
-## Who will benefit ?
+## Who 
 All school and colleges will benefit for calculating percentages and marks in easy way.
 
 ## When
@@ -69,5 +68,5 @@ User can be used when the exam and paper valuation is over.
 ## What
 Marksheet sheet generation system,user can calculaate student subject mark,grades,percentage,pass or fail using this system
 
-## How does this work ?
+## How 
 Enter all subject marks while asking and it will display percentage ,grades and detail of the student
