@@ -1,4 +1,4 @@
-include"mark.h"
+#include"mark.h"
 int main(){
 	input();
 	calculations();
