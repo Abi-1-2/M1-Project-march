@@ -14,7 +14,7 @@ void input()
 	printf("COLLEGE NAME : ");
 	scanf("%d",&c);
 	printf("DATE      : ");
-	scanf("%d",&a);
+	scanf("%d",&e);
 	printf("MEDIUM    : ");
 	scanf("%d",&m);
 	printf("ROLL NO    : ");
@@ -131,7 +131,7 @@ int calculations(){
 	
 	char res[5];
 	K1=m+m1;
-	K2=n1+n1;
+	K2=n+n1;
 	K3=o+o1;
 	K4=p+p1;
 	K5=q1+q2;
