@@ -55,7 +55,7 @@ void input(){
 	    if(p>=80){
 		        printf("\nplz enter less than 80 ");
 		}
-		printf("\nEnter C program  ");
+		printf("\nEnter C program practical ");
 	    scanf("%d",&p1);
 	    if(p1>=20){
 		        printf("\nplz enter less than 20 ");
@@ -71,7 +71,7 @@ void input(){
 		        printf("\nplz enter less than 20 ");
 		}
 }
-void show()
+void main()
 {
 	int i=0,i1=0,j=0,j1=0,k=0,k1=0,l=0,l1=0;
 	while(i1<113){
@@ -119,7 +119,7 @@ void show()
 		printf("*");
 		k1++;}
 	printf("\n|");
-	printf("\n|\t\t\t\t%s  You are %sed !",remark,result);
+	
 	printf("\n| \n");
 	while(j1<113){
 		printf("*");
@@ -130,7 +130,7 @@ void show()
 }
 int calculations(){
 	
-	char res[5];
+	
 	K1=m+m1;
 	K2=n+n1;
 	K3=o+o1;
