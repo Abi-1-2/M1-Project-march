@@ -5,17 +5,18 @@ char s[] = "PASS";
 char s1[] = "FAIL";
 char s3[] = "CONGRAGULATIONS";
 char s4[] = "     ";
-void input(){
+void input()
+        {
 	printf("NAME   : ");
-	scanf("%s",ch);
+	scanf("%s",&ch);
 	printf("PLACE : ");
-	scanf("%s",b);
+	scanf("%s",&b);
 	printf("COLLEGE NAME : ");
-	scanf("%s",a);
+	scanf("%s",&a);
 	printf("DATE      : ");
-	scanf("%s",d);
+	scanf("%s",&d);
 	printf("MEDIUM    : ");
-	scanf("%s",e);
+	scanf("%s",&e);
 	printf("ROLL NO    : ");
 	scanf("%d",&r);
 	printf("\nMATHEMATICS ");
@@ -69,7 +70,8 @@ void input(){
 		        printf("\nplz enter less than 20 ");
 		}
 }
-void show(){
+void show()
+      {
 	int i=0,i1=0,j=0,j1=0,k=0,k1=0,l=0,l1=0;
 	while(i1<113){
 		printf("*");
@@ -98,7 +100,7 @@ void show(){
 	printf("\n| Network linear circuit  \t\t\t| %d\t\t| --\t\t|\t80 \t|\t%d %c\t|",n,n,x);
 	printf("\n| Network linear circuit practical\t\t| --\t\t| %d\t\t|\t20 \t|\t%d \t|",n1,n1);
 	printf("\n| Electronic Measurement Instrumentation \t| %d\t\t| --\t\t|\t80 \t|\t%d %c\t|",o,o,y);
-	printf("\n| Electronic Measurement Instrumentation practical  | --\t\t| %d\t\t|\t20 \t|\t%d %c\t|",o1,o1);
+	printf("\n| Electronic Measurement Instrumentation practical| --\t\t| %d\t\t|\t20 \t|\t%d \t|",o1,o1);
 	printf("\n| c programming     \t\t\t\t| %d\t\t| --\t\t|\t80 \t|\t%d %c\t|",p,p,u);
 	printf("\n| c programming practical\t\t\t| -- \t\t| %d\t\t|\t20 \t|\t%d \t|",p1,p1);
 	printf("\n| Network Analysis & Synthesis \t\t\t| %d\t\t| %d\t\t|\t100 \t|\t%d %c\t|\n",q1,q2,q1+q2,v);
@@ -166,34 +168,34 @@ void abi2(){
 	}
 	else
 	    x = ' ';
-	fflush(stdin);
+	
 }
 void abi3(){
 	if(K3<40){
 		y ='#';
-		fflush(stdin);
+		
 	}
 	else
 	    y = ' ';
-	fflush(stdin);
+	
 }
 void abi4(){
 	if(K4<40){
 		u ='#';
-		fflush(stdin);
+		
 	}
 	else
 	    u = ' ';
-	fflush(stdin);
+	
 }
 void abi5(){
 	if(K5<40){
 		v ='#';
-		fflush(stdin);
+		
 	}
 	else
 	    v = ' ';
-	fflush(stdin);
+	
 }
 void resultfunction(){
 	if(R>40){
