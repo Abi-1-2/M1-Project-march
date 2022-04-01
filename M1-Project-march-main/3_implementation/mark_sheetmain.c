@@ -9,15 +9,15 @@ char s3[] = "CONGRAGULATIONS";
 char s4[] = "     ";
 void input(){
 	printf("NAME   : ");
-	scanf("%s",ch);
+	scanf("%d",&n);
 	printf("PLACE : ");
-	scanf("%s",b);
+	scanf("%d",&p);
 	printf("COLLEGE NAME : ");
-	scanf("%s",a);
+	scanf("%d",&c);
 	printf("DATE      : ");
-	scanf("%s",d);
+	scanf("%d",&d);
 	printf("MEDIUM    : ");
-	scanf("%s",e);
+	scanf("%d",&m);
 	printf("ROLL NO    : ");
 	scanf("%d",&r);
 	printf("\nMATHEMATICS ");
@@ -55,7 +55,7 @@ void input(){
 	    if(p>=80){
 		        printf("\nplz enter less than 80 ");
 		}
-		printf("\nEnter c program  Practical ");
+		printf("\nEnter c program Practical ");
 	    scanf("%d",&p1);
 	    if(p1>=20){
 		        printf("\nplz enter less than 20 ");
@@ -100,7 +100,7 @@ void show(){
 	printf("\n| Network linear circuit  \t\t\t| %d\t\t| --\t\t|\t80 \t|\t%d %c\t|",nlc,nlc,x);
 	printf("\n| Network linear circuit practical\t\t| --\t\t| %d\t\t|\t20 \t|\t%d \t|",nlc1,nlc1);
 	printf("\n| Electronic Measurement Instrumentation \t| %d\t\t| --\t\t|\t80 \t|\t%d %c\t|",o,o,y);
-	printf("\n| Electronic Measurement Instrumentation practical  | --\t\t| %d\t\t|\t20 \t|\t%d %c\t|",o1,o1);
+	printf("\n| Electronic Measurement Instrumentation practical| --\t\t| %d\t\t|\t20 \t|\t%d \t|" ,o1,o1);
 	printf("\n| c programming     \t\t\t\t| %d\t\t| --\t\t|\t80 \t|\t%d %c\t|",p,p,u);
 	printf("\n| c programming practical\t\t\t| -- \t\t| %d\t\t|\t20 \t|\t%d \t|",p1,p1);
 	printf("\n| Network Analysis & Synthesis \t\t\t| %d\t\t| %d\t\t|\t100 \t|\t%d %c\t|\n",q1,q2,q1+q2,v);
@@ -131,7 +131,7 @@ int calculations(){
 	
 	char res[5];
 	K1=maths+maths1;
-	K2=nlc+nlc1;
+	K2=n+n1;
 	K3=o+o1;
 	K4=p+p1;
 	K5=q1+q2;
@@ -168,34 +168,34 @@ void abi2(){
 	}
 	else
 	    x = ' ';
-	fflush(stdin);
+	
 }
 void abi3(){
 	if(K3<40){
 		y ='#';
-		fflush(stdin);
+		
 	}
 	else
 	    y = ' ';
-	fflush(stdin);
+	
 }
 void abi4(){
 	if(K4<40){
 		u ='#';
-		fflush(stdin);
+		
 	}
 	else
 	    u = ' ';
-	fflush(stdin);
+	
 }
 void abi5(){
 	if(K5<40){
 		v ='#';
-		fflush(stdin);
+		
 	}
 	else
 	    v = ' ';
-	fflush(stdin);
+	
 }
 void resultfunction(){
 	if(R>40){
