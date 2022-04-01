@@ -14,7 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: staticanalysis
-      run: enable= M1-Project-march-main all 3_implementation
+      run: enable=  all 3_implementation
     - name: make
       run: make
     - name: make check
