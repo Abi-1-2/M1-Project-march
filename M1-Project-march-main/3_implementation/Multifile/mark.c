@@ -8,15 +8,15 @@ char s4[] = "     ";
 void input()
         {
 	printf("NAME   : ");
-	scanf("%d",&a);
+	scanf("%d",&n);
 	printf("PLACE : ");
-	scanf("%d",&b);
+	scanf("%d",&p);
 	printf("COLLEGE NAME : ");
 	scanf("%d",&c);
 	printf("DATE      : ");
-	scanf("%d",&e);
+	scanf("%d",&d);
 	printf("MEDIUM    : ");
-	scanf("%d",&u);
+	scanf("%d",&m);
 	printf("ROLL NO    : ");
 	scanf("%d",&r);
 	printf("\nMATHEMATICS ");
