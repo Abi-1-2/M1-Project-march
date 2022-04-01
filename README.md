@@ -8,3 +8,5 @@
 [![Git Inspector](https://github.com/Abi-1-2/M1-Project-march/actions/workflows/git%20inspector.yml/badge.svg)](https://github.com/Abi-1-2/M1-Project-march/actions/workflows/git%20inspector.yml)
 
 [![Unit Testing](https://github.com/Abi-1-2/M1-Project-march/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Abi-1-2/M1-Project-march/actions/workflows/unit-test.yml)
+
+[![Valgrind](https://github.com/Abi-1-2/M1-Project-march/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Abi-1-2/M1-Project-march/actions/workflows/Valgrind.yml)
