@@ -3,3 +3,4 @@
 
 [![CI](https://github.com/Abi-1-2/M1-Project-march/actions/workflows/1main.yml/badge.svg)](https://github.com/Abi-1-2/M1-Project-march/actions/workflows/1main.yml)
 [![Code Quality - Static Code - Cppcheck](https://github.com/Abi-1-2/M1-Project-march/actions/workflows/cppcheck-action.yml/badge.svg)](https://github.com/Abi-1-2/M1-Project-march/actions/workflows/cppcheck-action.yml)
+[![Git Inspector](https://github.com/Abi-1-2/M1-Project-march/actions/workflows/git%20inspector.yml/badge.svg)](https://github.com/Abi-1-2/M1-Project-march/actions/workflows/git%20inspector.yml)
