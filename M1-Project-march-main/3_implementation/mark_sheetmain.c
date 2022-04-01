@@ -71,7 +71,7 @@ void input(){
 		        printf("\nplz enter less than 20 ");
 		}
 }
-void main()
+void show()
 {
 	int i=0,i1=0,j=0,j1=0,k=0,k1=0,l=0,l1=0;
 	while(i1<113){
@@ -130,7 +130,7 @@ void main()
 }
 int calculations(){
 	
-	char result[5];
+	char res[5];
 	K1=m+m1;
 	K2=n+n1;
 	K3=o+o1;
