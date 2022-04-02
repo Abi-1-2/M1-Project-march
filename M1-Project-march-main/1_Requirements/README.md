@@ -4,6 +4,9 @@
    Today there are lot of college  and school is presently and it is increasingly each day 
    so it is difficult to become check the exam copies of each student correctly at the particular time
   To solve this problem ,going to build a marksheet generation system
+  
+## RESEARCH
+An automatic grading system is presented for grading assignments in scientific computing. A student can interactively use this system to check the correctness of his program assignments. The grade for a correct solution is automatically recorded.A student can interactively use this system to check the correctness of his program assignments. The grade for a correct solution is automatically recorded. 
         
 ## SWAT ANALYSIS
 
